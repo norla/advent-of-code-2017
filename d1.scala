@@ -6,6 +6,3 @@ val res = digits.indices.foldLeft(0) ((sum, index) => {
 })
 
 println(res)
-
-
-
